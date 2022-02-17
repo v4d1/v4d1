@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=v4d1" alt="v4d1" /></a> </p>
 
-- 📝 I regularly write articles on [securihub.com](securihub.com)
+- 📝 I regularly write articles on <a href="https://securihub.com">securihub.com</a>
 
 - 📫 How to reach me **vadi@securihub.com**
 
