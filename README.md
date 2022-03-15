@@ -17,7 +17,7 @@
 
 <h3 align="left">My Tools:</h3>
 <p align="left"> <a href="https://github.com/v4d1/Dome" target="_blank" rel="noreferrer"> <b>Dome</b> - Fast and reliable python script to enumerate subdomains and open ports via active and/or passive scans </a> </p>
-<p align="left"> <a href="https://github.com/v4d1/Dome" target="_blank" rel="noreferrer"> <b>SpoofThatMail</b> - Bash script to check if a domain or list of domains can be spoofed based in DMARC records </a> </p>
+<p align="left"> <a href="https://github.com/v4d1/SpoofThatMail" target="_blank" rel="noreferrer"> <b>SpoofThatMail</b> - Bash script to check if a domain or list of domains can be spoofed based in DMARC records </a> </p>
 
 
 
